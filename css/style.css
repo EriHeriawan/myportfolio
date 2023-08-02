@@ -20,7 +20,7 @@ p.top {
     font-weight: 500;
     line-height: normal;
 }
-foote{
+.footer{
     bottom:0px;
 
     position: fixed;
