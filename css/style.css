@@ -20,7 +20,11 @@ p.top {
     font-weight: 500;
     line-height: normal;
 }
+foote{
+    bottom:0px;
 
+    position: fixed;
+}
 p.down {
     text-align: center;
     color: #A3ABB2;
@@ -31,6 +35,7 @@ p.down {
     font-weight: 500;
     line-height: normal;
 }
+
 
 header.profile.info {
     display: flex;
