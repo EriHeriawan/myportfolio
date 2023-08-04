@@ -331,6 +331,14 @@ nav {
     width: 370px;
 }
 
+button#nav-skills-tab {
+    font-family: 'Poppins';
+}
+ 
+button#nav-portfolio-tab {
+    font-family: 'Poppins';
+}
+ 
 button {
     display: flex;
     width: 170px;
